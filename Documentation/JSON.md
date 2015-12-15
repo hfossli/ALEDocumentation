@@ -4,9 +4,9 @@ JSON
 
 TOC
 
-- [Basics](#Basics)
-- [Handlebars](#Handlebars)
-- [Best practices](#Best-practices)
+- [Basics](#basics)
+- [Handlebars](#handlebars)
+- [Best practices](#best-practices)
 
 ## Basics
 
