@@ -55,6 +55,8 @@ You can have a tree of nodespecs
 }
 ```
 
+See more examples [here](/Documentation/HANDLEBARS.md).
+
 ## Best practices
 
 #### Don't use id for top level objects
