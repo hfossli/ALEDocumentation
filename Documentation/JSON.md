@@ -1,6 +1,14 @@
 
-JSON Basics
-===========
+JSON
+====
+
+TOC
+
+- [Basics](#Basics)
+- [Handlebars](#Handlebars)
+- [Best practices](#Best-practices)
+
+## Basics
 
 This is a node spec
 
