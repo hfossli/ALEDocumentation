@@ -48,6 +48,11 @@
     |        |   
 ```
 
+#### Unanswered questions
+
+- Will it be more difficult to have views udpating cassowary variables with this model? E.g. contentOffset, intrinsicHeight etc
+
+
 #### Reflection
 
 Using ALE and its c++ api directly might cause confusion. Especially if you are considering this very common scenario (replace "view" with "node" in your head):
